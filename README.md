@@ -4,3 +4,7 @@ This repository will contain various python notebook files that are being used i
 
 ### Resources
 - All the input data used will be available across Kaggle datasets
+
+### Progress Bar
+
+- Jupyter Notebooks : ![91%](https://progress-bar.dev/91/)
