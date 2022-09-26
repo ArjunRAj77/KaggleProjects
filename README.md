@@ -11,6 +11,7 @@ This repository will contain various python notebook files that are being used i
 
 ### Study Sessions
 - [ Learning pandas with help of Kaggle](https://github.com/ArjunRAj77/KaggleProjects/blob/main/pandas-study-session.ipynb)
+- [ Data Visualization Techniques ](https://github.com/ArjunRAj77/KaggleProjects/blob/main/data-visualization-notes.ipynb)
 
 ### Progress Bar
 
