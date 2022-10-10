@@ -10,8 +10,11 @@ This repository will contain various python notebook files that are being used i
 - [Space Voyager : ](https://github.com/ArjunRAj77/KaggleProjects/blob/main/space-voyager.ipynb) Machine learning model created for predicting the transported people from a given set of data, using Random Forest Regression model.
 
 ### Study Sessions
+
 - [ Learning pandas with help of Kaggle](https://github.com/ArjunRAj77/KaggleProjects/blob/main/pandas-study-session.ipynb)
 - [ Data Visualization Techniques ](https://github.com/ArjunRAj77/KaggleProjects/blob/main/data-visualization-notes.ipynb)
+- [ Intermediate Machine Learning Notes](https://github.com/ArjunRAj77/KaggleProjects/blob/main/intermediate-machine-learning-notes.ipynb)
+- [Data Cleaning Notes](https://github.com/ArjunRAj77/KaggleProjects/blob/main/data-cleaning-notes.ipynb)
 
 ### Progress Bar
 
