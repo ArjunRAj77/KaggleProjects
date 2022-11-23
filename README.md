@@ -8,6 +8,8 @@ This repository will contain various python notebook files that are being used i
 
 ### Projects
 - [Space Voyager : ](https://github.com/ArjunRAj77/KaggleProjects/blob/main/space-voyager.ipynb) Machine learning model created for predicting the transported people from a given set of data, using Random Forest Regression model.
+- [ House Price Prediction: ](https://github.com/ArjunRAj77/KaggleProjects/blob/main/house-prices-using-ml.ipynb) Trying to predict house prices in a given location using machine learning model.
+- [ Disaster Tweet Classifier :](https://github.com/ArjunRAj77/KaggleProjects/blob/main/disaster-tweet-identification.ipynb) Classifying tweets related to disaster news from a given dataset using machine learning models.
 
 ### Study Sessions
 
